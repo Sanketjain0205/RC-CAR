@@ -62,9 +62,8 @@ RC Car Acrylic Chassis
 Sensors (added in later stages)
 
 ▶️ YouTube Tutorials
-
 This repository follows the RC Car Projects playlist on YouTube.
-
+https://youtu.be/GXq0iCCvzOM
 Each folder matches one video.
 Watch the videos in order for best understanding.
 
