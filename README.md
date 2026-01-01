@@ -60,3 +60,26 @@ DC Motors
 Battery Pack (9–12V)
 RC Car Acrylic Chassis
 Sensors (added in later stages)
+
+▶️ YouTube Tutorials
+
+This repository follows the RC Car Projects playlist on YouTube.
+
+Each folder matches one video.
+Watch the videos in order for best understanding.
+
+🎯 Who This Is For
+School students (Grade 5–10)
+Arduino beginners
+Robotics hobbyists
+STEM educators
+
+🤝 Contributions
+
+This repository is mainly for learning and teaching.
+Suggestions, improvements, and bug fixes are welcome.
+
+📢 Maintained By
+
+Siddham Robotics Initiatives
+Hands-on robotics education focused on clarity, curiosity, and real learning.
